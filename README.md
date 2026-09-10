@@ -56,5 +56,11 @@ The main objective of this dashboard is to help businesses:
 * Identify subscription plans with high churn.
 * Understand customer engagement.
 * Analyze customer satisfaction.
+
+---
+
+## 🎯 Author
+
+Bhavesh Kumbhare
 * Identify potential high-risk customer segments.
 * Make data-driven retention decisions.
